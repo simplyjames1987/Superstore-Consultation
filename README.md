@@ -14,7 +14,7 @@ This Tableau dashboard delivers a profit and loss analysis of Superstore sales d
 - Real-time data exploration for executive decision-making
 
 ## 🔗 View the Live Dashboard
-[Superstore Consultation (Profit & Loss Bar Chart)](https://public.tableau.com/app/profile/james.wesson/viz/SuperstoreConsultation/ProfitLossBarChart)
+[Superstore Consultation](https://public.tableau.com/app/profile/james.wesson/viz/SuperstoreConsultation/ProfitLossBarChart)
 
 ## 🧠 Insights
 - Identified underperforming product categories and regions with consistent losses
